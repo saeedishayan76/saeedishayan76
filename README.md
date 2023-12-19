@@ -2,7 +2,7 @@
 ---
 - :telescope: I’m working as a Senior Android Developer 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://s6.uupload.ir/files/linkedin_drbi.png)](https://www.linkedin.com/in/shayan-saeedi-60961a1b8/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://s6.uupload.ir/files/linkedin_drbi.png&size=40)](https://www.linkedin.com/in/shayan-saeedi-60961a1b8/)
 
 <img src="https://komarev.com/ghpvc/?username=saeedishayan76&style=flat-square&color=blue" alt=""/>
 
