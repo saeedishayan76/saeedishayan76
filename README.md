@@ -4,6 +4,8 @@
 ### :man_technologist: About Me :
 
 ---
+I am a Senior Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+
 
 <img src="https://komarev.com/ghpvc/?username=saeedishayan76&style=flat-square&color=blue" alt=""/>
 
