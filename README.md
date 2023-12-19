@@ -1,9 +1,11 @@
 ### Hi there im Shayan 👋
 
+---
 ### :man_technologist: About Me :
 
-<img src="https://komarev.com/ghpvc/?username=saeedishayan76&style=flat-square&color=blue" alt=""/>
+---
 
+<img src="https://komarev.com/ghpvc/?username=saeedishayan76&style=flat-square&color=blue" alt=""/>
 
 <!--
 **saeedishayan76/saeedishayan76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
