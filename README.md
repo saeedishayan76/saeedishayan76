@@ -8,37 +8,43 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saeedishayan76&theme=dark&background=000000)](https://git.io/streak-stats)
 -->
-👋 Hello, I'm Shayan
-🚀 Senior Android Developer
+## 👋 Hello, I'm Shayan
+
+🚀 **Senior Android Developer**
+
 With 6 years of experience in Android development, I'm passionate about creating robust, user-friendly mobile applications that make a difference.
-💼 What I do
 
-Develop high-performance Android applications
-Architect scalable and maintainable codebases
-Implement modern Android development practices (MVVM, Clean Architecture, Jetpack Compose)
-Optimize app performance and user experience
+## 💼 What I Do
 
-🛠️ Tech Stack
+- Develop high-performance Android applications
+- Architect scalable and maintainable codebases
+- Implement modern Android development practices (MVI, Clean Architecture, Jetpack Compose)
+- Optimize app performance and user experience
 
-Kotlin | Java
-Clean Artitecture 
-Jetpack Compose
-Kotlin Coroutines | Flow
-Dagger Hilt | Koin
-JUnit | MockK | Mockito
-Android SDK | Jetpack Libraries
-Retrofit | OkHttp
-Room | SQLite
+## 🛠️ Tech Stack
 
+- **Kotlin** | **Java**
+- **Mvi** | **Mvvm**
+- **Clean Architecture**
+- **Jetpack Compose**
+- **Kotlin Coroutines** | **Flow**
+- **Dagger Hilt** | **Koin**
+- **JUnit** | **MockK** | **Mockito**
+- **Android SDK** | **Jetpack Libraries**
+- **Retrofit** | **OkHttp**
+- **Room** | **SQLite**
 
-📚 Continuous Learning
+## 📚 Continuous Learning
+
 Always staying updated with the latest Android development trends and best practices.
-📫 Let's Connect
 
-LinkedIn: [https://www.linkedin.com/in/shayan-saeedi-60961a1b8/]
-Email: shsaeedi156@gmail.com
+## 📫 Let's Connect
+
+- **LinkedIn:** [https://www.linkedin.com/in/shayan-saeedi-60961a1b8/](https://www.linkedin.com/in/shayan-saeedi-60961a1b8/)
+- **Email:** [shsaeedi156@gmail.com](mailto:shsaeedi156@gmail.com)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
+
 
 <!--
 **saeedishayan76/saeedishayan76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
