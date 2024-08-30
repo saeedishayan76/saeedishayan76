@@ -37,7 +37,7 @@ With 6 years of experience in Android development, I'm passionate about creating
 ## 📚 Continuous Learning
 
 - Always staying updated with the latest Android development trends and best practices.
-- Plase Check my **Medium** :[https://medium.com/@shayansaeedi]
+- Please check my **Medium** account :[https://medium.com/@shayansaeedi]
 
 ## 📫 Let's Connect
 
