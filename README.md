@@ -23,13 +23,13 @@ With 6 years of experience in Android development, I'm passionate about creating
 
 ## 🛠️ Tech Stack
 
-- **Kotlin** | **Java**
 - **Mvi** | **Mvvm**
 - **Clean Architecture**
 - **Jetpack Compose**
 - **Kotlin Coroutines** | **Flow**
 - **Dagger Hilt** | **Koin**
 - **JUnit** | **MockK** | **Mockito**
+- **Kotlin** | **Java**
 - **Android SDK** | **Jetpack Libraries**
 - **Retrofit** | **OkHttp**
 - **Room** | **SQLite**
