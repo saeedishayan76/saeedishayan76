@@ -12,7 +12,7 @@
 
 🚀 **Senior Android Developer**
 
-With 6 years of experience in Android development, I'm passionate about creating robust, user-friendly mobile applications that make a difference.
+With 7 years of experience in Android development, I'm passionate about creating robust, user-friendly mobile applications that make a difference.
 
 ## 💼 What I Do
 
