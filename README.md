@@ -14,6 +14,12 @@
 
 With 7 years of experience in Android development, I'm passionate about creating robust, user-friendly mobile applications that make a difference.
 
+## 🌟 Open Source Contributions
+I'm proud to contribute to open-source projects. Here are some of my recent contributions:
+
+- [Google Project (Now in Android)](https://github.com/android/nowinandroid/pull/1585): change collectJob to backgroundScope
+
+
 ## 💼 What I Do
 
 - Develop high-performance Android applications
