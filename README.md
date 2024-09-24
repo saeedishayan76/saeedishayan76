@@ -18,6 +18,8 @@ With 7 years of experience in Android development, I'm passionate about creating
 I'm proud to contribute to open-source projects. Here are some of my recent contributions:
 
 - [Google Project (Now in Android)](https://github.com/android/nowinandroid/pull/1585): change collectJob to backgroundScope
+- 
+- [Pokedex compose](https://github.com/skydoves/pokedex-compose/pull/33): change coroutine version for fix some issue.
 
 
 ## 💼 What I Do
